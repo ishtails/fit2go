@@ -34,13 +34,8 @@ const Footer = () => {
                     </span>
 
                     <span className="mt-4">
-                        <p className="font-bold text-primary">Office 1:</p>
-                        <NextLink className="transition-all hover:text-white" href='https://goo.gl/maps/9U7hx2o2hznRP2so6' target="_blank" aria-label="address">PHYSIOHEAL, First Floor, C-122, Golf Course Rd, in front of Huda Market Road, Sushant Lok 2, Sector 56, Gurugram, Haryana 122011</NextLink>
-                    </span>
-
-                    <span className="mt-4">
-                        <p className="font-bold text-primary">Office 2:</p>
-                        <NextLink className="transition-all hover:text-white" href='https://goo.gl/maps/cskgQDg1X1mVYj718' target="_blank" aria-label="address">PHYSIOMAX, Lower Ground Floor, Near Accord Super Speciality Hospital, Sector 86, Greater Faridabad, Haryana 121002</NextLink>
+                        <p className="font-bold text-primary">Office Location:</p>
+                        <NextLink className="transition-all hover:text-white" href='https://maps.app.goo.gl/ALx96uJi6EgHHFKh6' target="_blank" aria-label="address">Fit2Go, H-20 basement, Block H, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024</NextLink>
                     </span>
 
                     <NextLink href="https://www.instagram.com/fit2gosports/" target="_blank" className="flex items-center mt-4 space-x-1 transition-all hover:text-white">
